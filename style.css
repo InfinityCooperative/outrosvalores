@@ -5,18 +5,18 @@ body{
     background-color: rgb(255, 255, 255);
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 28px;
+    margin: 0% 0% 0% -88%;
 }
 .bandeira{
     position: absolute;
-    margin: -56px 0 0 90%;
+    margin: -56px 0 0 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover {
     position: absolute;
-    margin: -16px 0 0 90%;
+    margin: -16px 0 0 70%;
     height: 80px;
     transition: 1s;
 }
