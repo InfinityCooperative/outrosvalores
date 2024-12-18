@@ -68,19 +68,6 @@ fieldset button:hover{
     margin: 80px 0px;
     height: 15px;
 }
-.imagem {
-    height: 40px;
-    margin: 0px;
-}
-.imagem:hover {
-    height: 45px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
-    border-radius: 50%;
-}
-h6 img {
-    margin: 11px -0.5% 0 0;
-    height: 15px;
-}
 .direitos {
     font-size: 9px;
     text-align: center;
